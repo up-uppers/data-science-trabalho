@@ -4,5 +4,8 @@
 
 # Integrantes:
   - Vinicius Lisboa
-  - Igor
-  - Raphael
+  - Igor Mucharski
+  - Raphael Marangoni
+
+# Data Set
+# Dicionário de dados
