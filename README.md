@@ -1,8 +1,8 @@
-# data-science-trabalho
+# data science 📚
 
-Quarta Noite
+# Quarta Noite
 
-Integrantes:
-  Vinicius Lisboa
-  Igor
-  Raphael
+# Integrantes:
+  - Vinicius Lisboa
+  - Igor
+  - Raphael
